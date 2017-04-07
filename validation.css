@@ -1,0 +1,11 @@
+body {
+	background-color: aliceblue;
+}
+
+input.validate:valid {
+	background-color: palegreen;
+}
+
+input.validate:invalid {
+	background-color: lightcoral;
+}
